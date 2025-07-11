@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Bake My Day Coffee & Bakery",
+    "menu": "Cappuccino + Rabanada Bake My Day",
+    "description": "A Bake My Day Coffee & Bakery vem para a Londrina Coffee Week com\n um menu composto por um Cappuccino Cremoso Quente, acompanhado de uma \ndeliciosa rabanada preparada com o Pão Brioche da casa, uma bola de \nsorvete de creme, finalizado com uma calda de doce de leite e uma \nsaborosa farofinha de amendoim.Segunda a Sexta: 09h às 18h30Sábado: 09h às 18h",
+    "address": "Av. Castelo Branco, 248 - sala 01 - Presidente, Londrina",
+    "instagram": "https://www.instagram.com/bmdlondrina/"
+  },
+  {
+    "name": "Baru Confeitaria Criativa",
+    "menu": "Iced Caramel Latte +  Focaccia Caprese + Bolo alemão",
+    "description": "A Baru vem para a Coffee Week com um Iced Caramel Latte preparado com\n café especial, calda de camelo, leite e gelo. Para acompanhar, uma \nFocaccia Caprese feita com tomatinho cereja, mussarela de búfala e um \nmolho pesto especial da Baru. Para completar, um delicioso Bolo Alemão, \numa receita familiar feita de massa amanteigada, mascavo, chocolate \npreto & branco e também castanhas.Terça a Sexta: 10h às 18h50Sábado: 09h às 18h20",
+    "address": "R. Rubéns Carlos de Jesus, 300 - ALAMEDA SANTANA, Londrina",
+    "instagram": "https://www.instagram.com/barucriativa/"
+  },
+  {
+    "name": "Baudelaire Cookies",
+    "menu": "Espresso Duplo + Cookie Bala Baiana",
+    "description": "A Baudelaire traz para o festival um delicioso café espresso duplo, \nservido com o Cookie Bala Baiana, uma edição especial feita com massa de\n baunilha e côco, lascas crocantes de caramelo, chocolate branco e \nlascas de amêndoas.Segunda a sábado: 10h às 18h",
+    "address": "Av. Me. Leônia Milito, 1330 - sala 13 - Bela Suiça, Londrina",
+    "instagram": "https://www.instagram.com/baudelairecookies/"
+  },
+  {
+    "name": "Borelli (Shopping Catuaí)",
+    "menu": "Café Italiano Espresso Illy + Copo Gelato M + Mini Bola de Gelato (Fior di Latte) + Água com gás",
+    "description": "O Borelli Catuaí escolheu para o festival um clássico Espresso \nItaliano, muito bem acompanhado de um Gelato Borelli tamanho M, com até \ntrês sabores de gelato à sua escolha. No menu vem também uma mini bola \nde Gelato (Fior di Latte) e uma porção de água com gás.Segunda a Domingo: 10h às 22h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/gelatoborellilondrina/"
+  },
+  {
+    "name": "Brot Panificação Alemã",
+    "menu": "Energia Gelada + Pulled Pork Barbecue Croissant",
+    "description": "A Brot Panificação Alemã estreia na Coffee Week com a Energia Gelada,\n uma bebida preparada com água com gás, xarope, pedaços de morango, gelo\n e 200mg de cafeína. Para acompanhar, um delicioso Pulled Pork Barbecue \nCroissant, uma combinação de sabores que combina o sabor intenso do \ncroissant com o defumado da carne de porco desfiada, molho barbecue e \nrúcula.Segunda a Domingo: 07h30 às 21h",
+    "address": "Rod. Mabio Gonçalves Palhano, 200 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/brot.londrina/"
+  },
+  {
+    "name": "Cacau Show (Av. Duque de Caxias)",
+    "menu": "Café Espresso + Petit Gateau La Creme",
+    "description": "A Cacau Show da Av. Duque de Caxias vem para a Coffee Week com um \nclássico café espresso, servido com um delicioso Petit Gateau La Creme \ncom uma bola de sorvete, um sorvete La Creme e calda de chocolate.Segunda a Sábado: 09h às 19h",
+    "address": "Av. Duque de Caxias, 1255 - Igapó, Londrina",
+    "instagram": "https://www.instagram.com/cacaushowduque.maringa/"
+  },
+  {
+    "name": "Cacau Show (Av. Maringá)",
+    "menu": "Milkshake de Pistache + Trufa Cacau Show",
+    "description": "A Cacau Show da Av. Maringá escolheu para o festival um irresistível \nMilkshake de Pistache feito com sorvete de baunilha, creme de pistache \nCacau Show e chantilly. Para acompanhar, uma trufa de 12,5g da Cacau \nShow sabores sortidos.Segunda a Sábado: 09h às 19h",
+    "address": "Av. Maringá, 470 - Vitoria, Londrina",
+    "instagram": "https://www.instagram.com/cacaushowduque.maringa/"
+  },
+  {
+    "name": "Café Cultura",
+    "menu": "Cappuccino Italiano + Cinnamon Roll",
+    "description": "O Café Cultura preparou para o festival de Londrina um cappuccino \nitaliano, servido com um Cinnamon roll de massa amanteigada, doce e \nmacia, enrolada com canela e açúcar, coberto por uma calda de cream \ncheese, manteiga, açúcar e essência de baunilha.Segunda a Domingo: 10h às 22h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/cafecultura/"
+  },
+  {
+    "name": "Café da livraria",
+    "menu": "Cappuccino Gelado + Salgado Assado",
+    "description": "O Café da Livraria vem para a Coffee Week com o Cappuccino Gelado, \numa bebida cremosa e perfeita para os dias quentes. Para acompanhar, \nvocê pode escolher um salgado entre as opções disponíveis, garantindo \numa combinação perfeita de sabor e frescor para o seu momento.Segunda a Sábado: 10h às 22Domingo: 14h às 22h",
+    "address": "Av. Theodoro Victorelli, 150 LJ 22 Boulevard Shopping Jd - Helena, Londrina",
+    "instagram": "https://www.instagram.com/cafedalivraria/"
+  },
+  {
+    "name": "Café da Praça",
+    "menu": "Cappuccino + Empada",
+    "description": "O Café da Praça escolheu para a Coffee Week de Londrina um delicioso \ncappuccino, o qual será servido com empada com diversos sabores à \nescolha (exceto carne seca).Segunda a Sábado: 10h às 22hDomingo: 11h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": null
+  },
+  {
+    "name": "Café Mojo",
+    "menu": "Frapuccino + Sanduíche do Anthony Bourdain",
+    "description": "O Mojo traz para o evento seu famoso Frappuccino, um delicioso \ncappuccino na versão gelada batido com sorvete, perfeito para refrescar o\n paladar. Para acompanhar, eles escolheram um exclusivo Sanduíche do \nAnthony Bourdain, uma criação inspirada no renomado chef, montado em um \npão brioche super macio com diversas camadas de mortadela e queijo, \nfinalizado com um toque de mostarda Dijon e maionese especial.Segunda a Sexta: 07h45 às 19hSábado: 08h às 12h",
+    "address": "Av. Ayrton Senna da Silva, 200 - Palhano 1, Londrina",
+    "instagram": "https://www.instagram.com/cafemojolondrina/"
+  },
+  {
+    "name": "Cafeteria Odebrecht Gourmet",
+    "menu": "Capuccino Odebrecht + Waffle Frango",
+    "description": "A Cafeteria Odebrecht Gourmet vem para o festival com um delicioso \ncappuccino da casa, preparado por eles e sempre fresco. Para acompanhar,\n um irresistível waffle frango, o qual fica 12h em cozimento e \nfinalizado com temperos da casa e acompanhado de palmito e mussarela na \nsua montagem.Segunda a Sábado: 08h às 19hDomingos e Feriados: 08h às 13h",
+    "address": "Av. Harry Prochet, 305 - BOX 21 - São Jorge, Londrina (Box 19/20/21)",
+    "instagram": "https://www.instagram.com/cafeteriaodebrechtgourmet/"
+  },
+  {
+    "name": "Cake by Mili",
+    "menu": "Café Espresso + Trio de Donuts",
+    "description": "A Cake by Mili retorna para o festival, dessa vez com um delicioso \ncafé espresso que será servido com três irresistíveis Donuts fresquinhos\n de açúcar e canela, glaceado e recheados com geleia de frutas \nvermelhas.Terça a Sexta: 12h às 18h;Sábado: 13h às 17hDomingo 14h às 18h",
+    "address": "R. Espírito Santo, 1450 - Centro, Londrina  (Sala 10)",
+    "instagram": "https://www.instagram.com/cakebymili/"
+  },
+  {
+    "name": "Casa Bauducco Londrina",
+    "menu": "Macchiato +  Fatia de Panettone ou Chocottone",
+    "description": "A Casa Bauducco vem para o festival com um menu que combina sabores \nincríveis. Um Macchiato de aroma intenso e uma fatia generosa de \nPanettone ou Chocottone.Segunda a Sábado: 10h às 22hDomingo: 12h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/casabauduccolondrina/"
+  },
+  {
+    "name": "Cháblau Cafeteira",
+    "menu": "Menu Blau: Cappuccino Blau + Focaccia da Casa + Brownie com Calda de Caramelo Salgado",
+    "description": "A Cháblau cafeteira escolheu para a Coffee Week o Cappuccino Blau, \numa mistura da casa que já vem doçado e cremoso. Para acompanhar, duas \nopções de Focaccia da casa para escolher: Focaccia de gorgonzola, bacon e\n mel ou Focaccia de tomatinhos e pesto de manjericão (opção vegana que \ncontempla também intolerantes à lactose). O menu se completa com um \ndelicioso brownie cremoso com calda de caramelo salgado.Segunda a Sexta: 10h às 19hSábado: 10h às 17h30",
+    "address": "R. Paranaguá, 82 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/chablaucafe/"
+  },
+  {
+    "name": "Chunk and Chunks",
+    "menu": "Salted Caramel + Cookie Belga",
+    "description": "A Chunky Chunks trouxe uma combinação especial para quem ama café e \ncookies: um Salted Caramel incrível, feito com café liofilizado, leite e\n uma receita exclusiva de caramelo salgado. Para acompanhar, um cookie \nde chocolate belga delicioso, feito na medida certa para agradar seu \npaladar. Ele tem uma massa branquinha com bastantes gotas de Chocolate \nBelga Callebaut meio amargo, que combina perfeitamente com o sabor \nmarcante do Salted Caramel.Segunda a Sábado: 10h às 22hDomingo: 11h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/chunkychunkscookies/"
+  },
+  {
+    "name": "Coelho Café",
+    "menu": "Apple Pie Iced Tea + Pulled Pork",
+    "description": "O Coelho Café escolheu para o festival o Apple Pie Iced Tea, uma \nbebida exclusiva preparada com chá gelado refrescante e aromático que \ncombina notas de maçã caramelizada, canela e Cumaru, com a elegância do \nchá branco, trazendo a sensação deliciosa de uma torta caseira. Para \nacompanhar, vem o Pulled Pork, um sanduíche servido em pão brioche feito\n na casa e recheado com uma suculenta carne suína braseada lentamente \naté desfiar, em molho de especiarias levemente defumado e com nossa \nsaladinha Pink Slaw de dar água na boca.Terça a Sexta: 11h às 20hSábado: 10h às 20h",
+    "address": "R. João XXIII, 650 - Judith, Londrina",
+    "instagram": "https://www.instagram.com/coelhocafe/"
+  },
+  {
+    "name": "Colibri Café Bar",
+    "menu": "Leite Colibri + Croissant Clássico",
+    "description": "O Colibri Café Bar preparou um menu especial para a Coffee Week com o\n Leite Colibri, uma combinação irresistível de leite gelado com redução \nde caramelo, servido ao lado de uma dose encorpada de espresso, criando \numa experiência única entre o doce e o intenso do café. (280ml). Esse \nserá servido com um croissant clássico, crocante por fora e macio por \ndentro, recheado com alface-americana fresca, presunto, mussarela e um \ntoque cremoso de ricota.Terça a Sexta: 15h às 22h30Sábado:  09h às 22h30",
+    "address": "R. Marcílio Dias, 373 - Vila Fujita, Londrina",
+    "instagram": "https://www.instagram.com/colibricafebar.londrina/"
+  },
+  {
+    "name": "Delicato Brigadeiria",
+    "menu": "Chocolate ao Cubo: Café Coado + Bolo de Chocolate + Mini Trufa de Café",
+    "description": "A Delicato Brigadeiria vem para a Coffee Week com um menu bem \nchocolatudo! Eles escolheram para a bebida um café coado ou um chá \ngelado, que será servido com um bolo de chocolate intenso com ganache \ncremosa e servido na calda quente de brigadeiro. Para adoçar ainda mais,\n uma mini trufa de café.Segunda a Sábado: 11h às 18h",
+    "address": "R. Caracas, 181 - Jardim, Londrina",
+    "instagram": "https://www.instagram.com/delicatobrigadeiria/"
+  },
+  {
+    "name": "Délika (Região Leste)",
+    "menu": "Panini Bauru + Chocolate quente cremoso + Carolina recheada",
+    "description": "A Delika traz para a Coffee Week um blend exclusivo de chocolate \nquente, uma bebida cremosa e reconfortante de 200ml, finalizada com \nmarshmallows macios. Este será acompanhado do Panini Bauru, um pão de \nqueijo recheado com presunto, queijo mussarela, tomate e orégano, \noferecendo uma explosão de sabores. Para complementar a sua experiência,\n eles escolheram uma maravilhosa Carolina recheada.Av. Robert Koch, 734 – OperáriaSegunda a Sábado: 06h30 às 20hDomingo: 07h às 18hR. Lázaro José Carias de Souza, 116 – Conj. Semiramis Barros BragaSegunda a Sábado: 06h30 às 20hDomingo: 07h às 19h",
+    "address": "Av. Robert Koch, 734 - Operária, LondrinaR. Lázaro José Carias de Souza, 116 - Conj. Semiramis Barros Braga",
+    "instagram": "https://www.instagram.com/panificadoradelika/"
+  },
+  {
+    "name": "Doces Secretos de Dusvailer",
+    "menu": "Combo Coffee Week: Café Bruma + Deleite + Biscoito Amanteigado com Especiarias e Chocolate",
+    "description": "O Doces Secretos de Dusvailer preparou para o evento o Combo Coffee \nWeek. Para beber, o café Bruma, um latte delicadamente perfumado com \nbaunilha, servido com um biscoito amanteigado de especiarias e \nchocolate. Para completar o menu, o Deleite, um doce em camadas de \nbiscuit de cacau e café com recheio cremoso de doce de leite e cream \ncheese.Quarta a Sexta: 12h às 18h30Sábado e Domingo: 10h às 18h30",
+    "address": "R. Piauí, 1127 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/dusvailer/"
+  },
+  {
+    "name": "Duckbill",
+    "menu": "Cappuccino com Marshmallow Maçaricado + Sanduíche de Cookie com Nutella",
+    "description": "A Duckbill chega no festival com um irresistível cappuccino com uma \ngenerosa camada marshmallow maçaricado que completa o sabor da bebida. \nPara comer, o CapCookie, um sanduíche diferente feito com cookie e \nrecheado com Nutella.Segunda a Sábado: 08h às 20hDomingo: 09h às 19h",
+    "address": "R. Santos, 54 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/duckbill.londrina/"
+  },
+  {
+    "name": "Eclair Garden",
+    "menu": "Limonada Colombiana + Eclair Fior d'Arancio",
+    "description": "O menu da Eclair Garden é composto por uma limonada Colombiana \nextremamente refrescante preparada com raspas de coco, limão e \nmanjericão. Ela acompanha uma surpreendente massa Eclair recheada com \nganache de Laranja Italiana e chocolate branco, morangos, zests de \nlimão-siciliano e cravejada com pistaches.Terça a Sábado: 10h30 às 18hDomingo: 09h30 às17h",
+    "address": "Avenida Doutor - R. Adhemar Pereira de Barros, 1600 - Loja 01 - Bela Suiça",
+    "instagram": "https://www.instagram.com/eclairgarden/"
+  },
+  {
+    "name": "Gold Gelato",
+    "menu": "Trio Dolce Gold: Café Espresso + Brownie Artesanal + Gelato",
+    "description": "O Gold Gelato vem para a Coffee Week com café expresso intenso e \naromático servido com um brownie artesanal, denso e equilibrado, com uma\n casquinha crocante e interior macio, perfeito para os amantes de \nchocolate. Acompanhando, um gelato cremoso, feito com ingredientes \nselecionados para proporcionar uma experiência única a cada colherada.Terça à Quinta: 12h30 às 20hSexta: 12h30 às 23hSábado:13h30 às 23hDomingo: 13h30 às 21h",
+    "address": "Av. Me. Leônia Milito, 1139 - Bela Suiça, Londrina (Loja 04)",
+    "instagram": "https://www.instagram.com/gold.gelato/"
+  },
+  {
+    "name": "Grão Espresso",
+    "menu": "Cappuccino com Borda de Pistache + Fatia de Bolo Amanteigado",
+    "description": "A Grão Espresso escolheu para o festival um cappuccino cremoso, \nfinalizado com uma borda de creme de pistache e um toque de chantilly \naerado, trazendo equilíbrio entre doçura e intensidade. Para acompanhar,\n um bolo amanteigado, tostado na medida certa, coberto com açúcar e \ncanela, e finalizado com um delicado toque de flor de sal.Segunda a Sábado: 10h às 22hDomingo: 14h às 20h",
+    "address": "Av. Theodoro Victorelli, 150 - Carlota, Londrina. Loja 48B (Shopping Boulevard)",
+    "instagram": "https://www.instagram.com/graoespressolondrina/"
+  },
+  {
+    "name": "Hachimitsu (Catuaí)",
+    "menu": "Café Espresso + Pão de Queijo + Eclair",
+    "description": "A Hachimitsu trouxe para a Coffee Week o clássico café espresso, de \nsabor intenso e aromático. Para acompanhar, um pão de queijo quentinho, \ncom textura macia por dentro e crocante por fora. Para completar, um \ndelicioso éclair, um doce elegante e cremoso, perfeito para adoçar seu \nmomento.Segunda a Sábado: 10h às 22hDomingo: 11h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/hachimitsucatuailondrina/"
+  },
+  {
+    "name": "Hello Donuts",
+    "menu": "Ice Cappuccino + Donuts Salgado Corn Bacon",
+    "description": "A Hello Donuts vem para o festival com um Ice Cappuccino, uma versão \ngelada e irresistível do cappuccino clássico. O menu se completa com o \nDonuts Salgado Corn Bacon, um Donut recheado com uma deliciosa e \ninusitada pasta de bacon com milho e um toque salgado e surpreendente.Segunda a Domingo: 12h às 20h",
+    "address": "R. Goiás, 1820 - Lojas 01 e 02 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/hellodonuts_londrina/"
+  },
+  {
+    "name": "Hera",
+    "menu": "Café Americano + Banana Toast",
+    "description": "A Hera estreia no festival com um aromático café americano, moído na \nhora para garantir frescor e sabor; com um delicioso toast feito com pão\n sem glúten e sem lácteos, coberto por uma camada generosa de pasta de \namendoim sem açúcar, rodelas de banana e finalizada com canela e mel, \neste podendo substituído por melado de cana (opção vegana).Terça a Sábado: 09h30 às 18h",
+    "address": "Av. Juscelino Kubitscheck, 2099 - Ipiranga, Londrina",
+    "instagram": "https://www.instagram.com/heracafeoficial/"
+  },
+  {
+    "name": "Isabela Yenes",
+    "menu": "Café Espresso + Cestinha de Chocolate  com Creme de Baunilha, Brownie de Café e Caramelo Crocante",
+    "description": "A Isabela Yenes chega para a Coffee Week com um espresso encorpado de\n sabor marcante e revigorante. Para acompanhar, ela escolheu uma \nsofisticada cestinha de chocolate, recheada com um suave creme de \nbaunilha, pedaços de brownie de café e um caramelo crocante que adiciona\n uma textura irresistível.Segunda a Sexta: 09h às 18hSábado: 09h às 13h",
+    "address": "R. La Paz, 61 - Guanabara, Londrina",
+    "instagram": "https://www.instagram.com/yeneschocolatier/"
+  },
+  {
+    "name": "Jardim Secreto",
+    "menu": "Cappuccino Secreto + Waffle de Ovos e Bacon",
+    "description": "O Jardim Secreto trouxe para o festival um misterioso e delicioso \nCappuccino Secreto da casa, preparado com uma receita especial. Para \nacompanhar, um robusto Waffle de Ovos e Bacon, uma combinação clássica e\n farta de waffles com ovos cremosos e bacon crocante, perfeita para um \ncafé da manhã ou brunch reforçado.Segunda a Sábado: 08h às 19h",
+    "address": "Av. Me. Leônia Milito, 1.900 - Palhano 1",
+    "instagram": "https://www.instagram.com/jardimsecretocafeteria/"
+  },
+  {
+    "name": "Just Donuts (Catuaí)",
+    "menu": "ChocoJust com Marshmallow + Donuts Tradicional",
+    "description": "O Just Donuts (Catuaí) chega na Coffee Week com o hocoJust, um \nchocolate quente super cremoso, finalizado com marshmallows macios que \nderretem a cada gole. Para acompanhar, delicie-se com o Donuts \ntradicional, feito com a autêntica massa americana: fofinha, aerada e \ncoberta por uma camada exclusiva e mega cremosa. Uma combinação perfeita\n para um momento de puro conforto!Segunda a Sábado: 10h às 22hDomingo: 11h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/justdonuts.pr/"
+  },
+  {
+    "name": "Le Vin Couvert",
+    "menu": "Cappuccino da Casa + Panini Caprese de Pão de Queijo + Brigadeiro de Avocado e Brigadeiro Vinho do Porto",
+    "description": "O Le Vin Couvert vem para nosso festival com o Cappuccino da Casa, \numa bebida cremosa e reconfortante, perfeita para qualquer momento. Para\n acompanhar, saboreie o Panini Caprese de Pão de Queijo, uma fusão \ndeliciosa que combina o tradicional pão de queijo tostado com manteiga \nde tomate, o frescor da mussarela de búfala, pesto de manjericão e \nrúcula. Para finalizar, Brigadeiro de Avocado com Pistache e Brigadeiro \nde Vinho do Porto, opções sofisticadas e inusitadas que prometem \nsurpreender seu paladar com doçura e um toque de originalidade.Segunda a Sábado: 09h às 18h",
+    "address": "R. Dr. Dimas de Barros, 80 - loja 23 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/levincouvert/"
+  },
+  {
+    "name": "Leone gelateria (Alameda Santana e Aurora)",
+    "menu": "Café Espresso Lavazza + Torta Caprese Doce",
+    "description": "A Leone Gelataria — Alameda Santana e Aurora — chegam para a Coffee \nWeek com o Café Espresso Lavazza, conhecido por seu aroma intenso e \nsabor marcante. Para acompanhar, Torta Caprese, uma sobremesa \nsofisticada e sem glúten, feita com farinha de amêndoas e cacau, e \nservida com uma generosa calda de chocolate amargo que realça ainda mais\n seus sabores.R. Rubéns Carlos de Jesus, 300 – Palhano 2, LondrinaSegunda: 12h às 19hTerça a Domingo: 11h às 22hAv. Ayrton Senna da Silva, 400 – Palhano 1, LondrinaSegunda a Sábado: 10h30 às 22hDomingo: 11h às 20h",
+    "address": "R. Rubéns Carlos de Jesus, 300 - Palhano 2, LondrinaAv. Ayrton Senna da Silva, 400 - Palhano 1, Londrina",
+    "instagram": "https://www.instagram.com/leonegelateria/"
+  },
+  {
+    "name": "Leone Gelateria (Palhano)",
+    "menu": "Café Espresso Lavazza + Petit Gateau al Cioccolato",
+    "description": "A Leone Gelataria — Palhano — escolheu para o festival o Café \nEspresso Lavazza, conhecido por seu aroma intenso e sabor marcante. Para\n acompanhar, o clássico Petit Gateau al Cioccolato, um bolinho de \nchocolate com o centro cremoso e quente, servido com uma refrescante \nbola de gelato Fior di Latte e uma generosa calda de chocolate amargo \nque complementa perfeitamente a doçura e a temperatura da sobremesa.Segunda a Domingo: 11h às 22h",
+    "address": "R. Montevidéu, 700 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/leonegelateria/"
+  },
+  {
+    "name": "Leone Gelateria (Shopping Catuaí)",
+    "menu": "Cremma di Caffè + Brownie de Chocolate Amargo",
+    "description": "A Leone Gelateria – Shopping Catuaí –  escolheu para o evento a \nCremma di Caffè, uma bebida gelada e cremosa à base de café, perfeita \npara qualquer hora do dia. Para acompanhar, delicie-se com o brownie de \nchocolate amargo, que oferece uma experiência intensa e indulgente, \nharmonizando perfeitamente com a suavidade do café gelado.Segunda a Sábado: 10h30 às 22hDomingo: 11h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/leonegelateria/"
+  },
+  {
+    "name": "Mais 1 Café Londrina",
+    "menu": "Café Coado + Coxinha de Frango + Pastel de Belém",
+    "description": "A Mais 1 preparou para o festival um café coado especial, preparado \ncom grãos selecionados da Serra da Canastra, Minas Gerais, que \napresentam uma alta pontuação de 84 e um perfil de sabor com notas de \ncacau e bala de caramelo. Para acompanhar, um delicioso trio de mini \ncoxinhas crocantes de frango com catupiry, servidas com a sua escolha de\n três molhos: maionese tasty, barbecue ou baconese. E para encerrar essa\n experiência, um clássico e irresistível Pastel de Belém, fiel à \ntradição portuguesa.Segunda a Sábado: 07h30 às 18h30Domingo: 08h30 às 12h00 e 15h30 às 18h",
+    "address": "Av. Me. Leônia Milito, 1330 - Bela Suiça, Londrina",
+    "instagram": "https://www.instagram.com/mais1cafe.londrina/"
+  },
+  {
+    "name": "Maria-te-viu Café",
+    "menu": "Café Coado Agroflorestal e American Pancake com Ganache, Morangos e Chantilly",
+    "description": "A Maria-te-viu Café estreia na Coffee Week com um café coado (120ml) \nespecialíssimo, plantado e colhido por eles, garantindo um sabor único e\n sustentável. Para acompanhar, eles trouxeram 2 unidades da American \nPancake, feita com a tradicional receita americana, coberta com ganache,\n morangos sempre fresquinhos e um chantilly puro, feito aqui. É a \ncombinação perfeita para uma experiência deliciosa e autêntica!Segunda a Sexta: 11h às 19hSábado 09h às 19h",
+    "address": "R. Drongo, 1325 - Centro, Arapongas - PR",
+    "instagram": "https://www.instagram.com/mariateviucafe/"
+  },
+  {
+    "name": "Maturado",
+    "menu": "Cold Brew com Água Tônica e Limão Siciliano + Waffle de Costela + Mini Brigadeiro de Café",
+    "description": "Nessa edição da Coffee Week Londrina, o Maturado Café preparou uma \njornada gastronômica que se inicia por uma bebida refrescante e \nenergizante: o Cold Brew com água tônica e um toque de limão-siciliano. \nPara acompanhar, saboreie o inusitado e delicioso Waffle de Costela, que\n vem com um cremoso molho de queijo e um toque de rúcula. Para finalizar\n essa experiência com chave de ouro, desfrute de um mini brigadeiro de \ncafé.Terça a Domingo: 09:30h às 18:30h",
+    "address": "Av. Aminthas de Barros, 51 - Piso Superior - Ipanema, Londrina",
+    "instagram": "https://www.instagram.com/maturadocafe.oficial/"
+  },
+  {
+    "name": "Merenda Rangos e Sorvetes",
+    "menu": "Combo Trio: Refrigerante Selvagem de Café com Gengibre + Tortinha de Queijo Canastra com Milho e Pesto + Crumble de Maçã",
+    "description": "A Merenda Rangos e Sorvetes chega no festival com um refrigerante \nselvagem de café com gengibre, uma bebida inovadora e refrescante. Para \nacompanhar, eles escolheram uma deliciosa tortinha de queijo canastra \ncom milho e pesto, que oferece uma combinação de sabores brasileiros e \num toque de frescor. E para finalizar, um crumble de maçã, servido com \numa bola de cremoso sorvete Fior Di Latte.Segunda a Domingo: 11h30 às 20h",
+    "address": "R. Benjamin Constant, 1860 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/merenda_ldna/"
+  },
+  {
+    "name": "Mukafé e Ref.Sandô",
+    "menu": "Sex on the Coffee + Sandô Julinho + Pudim com Calda de Café",
+    "description": "O Mukafé e o Re. Sandô vêm para o festival com o  Sex on the \nCoffee, uma bebida refrescante e equilibrada, que combina suco de \nlaranja, coulis de morango e um café intenso e frutado, feito na prensa \nfrancesa. Para acompanhar, o Sandô Julinho oferece a leveza de uma \nsalada em um pão ciabatta macio, recheado com alface ao molho caesar, \nfrango grelhado e queijo parmesão ralado. Para finalizar, delicie-se com\n o Pingadin, um pudim simples, cremoso e inesquecível, servido com uma \ndeliciosa calda de café.Terça a Sexta: 15h às 21hSábados: 12h às 21h",
+    "address": "R. Riachuelo, 206 - Jardim Higienopolis, Londrina",
+    "instagram": "https://www.instagram.com/muka.fe/"
+  },
+  {
+    "name": "Nelson Boulangerie",
+    "menu": "Coffee-cola + Nice Hot-dog",
+    "description": "A Nelson Boulangerie apresenta para o festival o Coffee-cola, \nrefrigerante natural com toque de café especial, feito com ingredientes \nde verdade e inspirado nas sodas antigas. Para acompanhar, um hot-dog \nautoral cheio de umami, com pão ao levain da casa e salsicha artesanal.Segunda a Sábado: 09h às 18h",
+    "address": "Av. Me. Leônia Milito, 446 - Bela Suiça, Londrina",
+    "instagram": "https://www.instagram.com/nelsonboulangerie/"
+  },
+  {
+    "name": "O Armazém Café",
+    "menu": "Café Coado ou Chopp de Café + Sanduíche Frango Espresso",
+    "description": "O Armazém Café escolheu para o evento um,  aromático café coado \nou, para uma experiência inovadora, um delicioso chopp de café. Para \nacompanhar, um exclusivo Sanduíche Frango Espresso: um pão de forma \nrecheado com frango desfiado ao café e um creminho de ricota, coberto \npor mussarela gratinada e finalizado com brotos de alfafa e pimenta \nbiquinho, criando uma combinação de sabores surpreendente.Segunda a Sábado: 10h às 19h",
+    "address": "R. Belo Horizonte, 701 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/oarmazemcafe/"
+  },
+  {
+    "name": "Oh My Coffee",
+    "menu": "Iced Latte Caramelo Salgado + Quiche Lorraine + Cookie com Gotas de Chocolate Meio Amargo",
+    "description": "O Oh My Coffee chega na Coffee Week com um delicioso Iced Latte \ncaramelo salgado, uma bebida que combina a suavidade do café com o toque\n adocicado e salgado do caramelo. Para acompanhar, uma clássica Quiche \nLorraine, com seu recheio cremoso e saboroso. E para adoçar, um \nirresistível cookie com gotas de chocolate meio amargo, perfeito para \nfinalizar sua experiência.Segunda a Sexta: 08h30 às 18h30Sábados: 08h às 13h",
+    "address": "R. Pio XII, 89 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/ohmycoffee_cafeteria/"
+  },
+  {
+    "name": "Pane di Giovanni",
+    "menu": "Latte Gelado com Caramelo Salgado + Duo Experience Pane di Giovanni",
+    "description": "A Pane di Giovanni vem para o festival com um latte italiano gelado \ncom caramelo salgado, uma versão cremosa e refrescante da bebida \nclássica, feita com leite bem gelado, café intenso e caramelo salgado \nartesanal, equilibrando perfeitamente a doçura. Para acompanhar, o Duo \nExperience Pane di Giovanni é uma surpresa para o paladar: um pão \ncaseiro de fermentação natural recheado com macio rosbife, rúcula \nfresca, o cremoso molho verde da casa e a estrela do prato, a geleia \nartesanal de abacaxi com pimenta, que adiciona um toque agridoce \nirresistível a cada mordida.Terça a quinta: 07h30 às 22hSexta a Domingo: 07h30 às 23h",
+    "address": "R. Fermino Barbosa, 185 - Sala 2, 3 - Jd. Aurora, Londrina",
+    "instagram": "https://www.instagram.com/panedigiovanni/"
+  },
+  {
+    "name": "Pane Puro",
+    "menu": "Cold Brew Frutado + Croissant de Pernil + Mini Palmier",
+    "description": "A Pane Puro vem para o festival com o Cold Brew frutado, uma bebida \ngelada e revigorante com infusão cítrica de laranja, um toque \nrefrescante de hortelã e um leve toque de mel. Para acompanhar, um \ncroissant artesanal recheado com pernil desfiado, cozido lentamente na \ncerveja preta e servido no estilo “buraco quente”, garantindo um sabor \núnico e reconfortante. Para finalizar, um delicado mini palmier completa\n essa experiência de sabores.Terça a Sexta: 09h às 19hSábado e feriados: 08h às 18h.",
+    "address": "R. Foz do Iguaçu, 90 - Loja 2 - Bancários, Londrina",
+    "instagram": "https://www.instagram.com/pane.puro/"
+  },
+  {
+    "name": "Pane Puro (Aurora)",
+    "menu": "Coado Especial + Choux Cream",
+    "description": "A Pane Puro Aurora trouxe para o festival um coado especial, um café \npreparado para realçar suas melhores notas. Para acompanhar, uma Choux \nCream, uma delicada massa recheada com um caramelo de framboesa vibrante\n e uma mousse aveludada de chocolate branco, que possui as notas \naromáticas e exóticas do cumaru, criando uma combinação de sabores \nelegante e surpreendente.Segunda a Sábado: 10h às 22h.Domingo: 13h às 20h",
+    "address": "Av. Ayrton Senna da Silva, 400 - Loja 27 - Palhano 1 (Aurora Shopping)",
+    "instagram": "https://www.instagram.com/pane.puro/"
+  },
+  {
+    "name": "Sagrado Boulangerie",
+    "menu": "Café Coado Sagrado + Croissant Tradicional com porção de Geleia ou manteiga + Brownie",
+    "description": "O Sagrado Boulangerie vem para a Coffee Week com um Café Coado \nSagrado, preparado com um blend exclusivo de grãos selecionados, moídos \nna hora e extraídos na clever, resultando em uma xícara aromática e \nencorpada. Para acompanhar, um autêntico Croissant Francês, leve e \namanteigado, que você pode saborear com a nossa geleia artesanal ou \nmanteiga. E para adoçar a sua experiência, um delicioso pedaço de  \nBrownie.Segunda a Sábado: 07h às 19hDomingo: 08h às 12h30",
+    "address": "Av. Gil de Abreu e Souza, 805 - Condomínio Royal Golf Residence, Londrina",
+    "instagram": "https://www.instagram.com/sagradolondrina/"
+  },
+  {
+    "name": "Sips Café",
+    "menu": "Silky Sip + Bolo de Chocolate Intenso",
+    "description": "O Sips Café chega no festival com o Silky Sip, um drink que harmoniza\n a intensidade do café espresso com o calor da cachaça de Amburana, \nvinda diretamente da renomada Araz Cachaçaria. Para acompanhar, eles \nescolheram uma fatia de bolo de chocolate intenso, que complementa os \nsabores do drink e suaviza sua potência alcoólica.Segunda à Sexta: 10h às 19hSábado: 10h às 17hDomingo: 15h às 18h (exclusivo Londrina Coffee Week)",
+    "address": "R. Piauí, 1422 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/sipscafe.ldna/"
+  },
+  {
+    "name": "Sorveteria Ritz (Leonor)",
+    "menu": "Cappuccino Gelado + Mini Churros de Doce de Leite + Bola de Sorvete de Chocolate",
+    "description": "A Sorveteria Ritz (Unidade Leonor) escolheu para o festival um \ncremoso cappuccino gelado de 300ml, uma bebida perfeita para qualquer \nmomento. Para acompanhar, vem uma porção de mini churros, recheados com \ndoce de leite, e uma bola de sorvete sabor chocolate, criando uma \ncombinação irresistível de sabores e temperaturas.Diariamente: 11h às 22h",
+    "address": "Rua Ruy Virmond Carnascialli, 539 - Leonor, Londrina",
+    "instagram": "https://www.instagram.com/ritzlondrina/"
+  },
+  {
+    "name": "Sorveteria Ritz (Ouro Branco e Saul)",
+    "menu": "Cappuccino Gelado + Sorvete Frito",
+    "description": "A Sorveteria Ritz (Unidades Ouro Branco e Saul) vem para o festival \ncom um delicioso cappuccino gelado de 300ml, uma bebida cremosa e \nperfeita para os dias quentes. Para acompanhar, vem um sorvete frito \nsabor baunilha, que oferece uma casquinha crocante por fora e o interior\n gelado e cremoso, criando um contraste de texturas e temperaturas \nirresistível.Diariamente: 11h às 22h",
+    "address": "Ouro Branco: R. das Camélias, 55 - Ouro Branco, LondrinaSaul Elkind: Av. Saul Elkind, 1240 - Conj. Hab. Violim, Londrina",
+    "instagram": "https://www.instagram.com/ritzlondrina/"
+  },
+  {
+    "name": "Sterna",
+    "menu": "Espresso Tônica + Panini de Pão de Queijo",
+    "description": "O Sterna Café vem para nosso festival gastronômico com um Espresso \nTônica, uma bebida preparada com água tônica, um toque cítrico de \nlaranja e uma dose de espresso de café especial e perfil sensorial que \nrevela notas de caramelo e chocolate. Para acompanhar, um panini \nexclusivo, feito com o tradicional pão de queijo da casa, recheado com \nsalame italiano defumado, um cremoso sour cream à base de cream cheese e\n limão-siciliano, e folhas frescas de rúcula, uma combinação perfeita de\n sabores e texturas.Diariamente: 08h30 às 18h",
+    "address": "Av. Bandeirantes, 392 - Vila Ipiranga, Londrina",
+    "instagram": "https://www.instagram.com/sternacafe.londrina/"
+  },
+  {
+    "name": "Tea Shop (Catuaí)",
+    "menu": "Chá Irish Cream + Bolo de Maçã",
+    "description": "A Tea Shop (Catuaí) vem para o festival com um delicioso Chá Irish \nCream, uma infusão aconchegante de chá-preto com notas de grãos de café e\n caramelo, proporcionando um sabor único e reconfortante. O menu se \ncompleta com um bolo de maçã com especiarias, macio e aromático, coberto\n com um cremoso brigadeiro branco, uma combinação perfeita para um \nmomento de puro prazer.Diariamente: 10h às 22h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/teashop_catuaishopping/"
+  },
+  {
+    "name": "Terrine Gastronomia",
+    "menu": "Espresso Lungo + Sticky Toffee de Tâmaras",
+    "description": "A Terrine Gastronomia apresenta para a Coffee Week de Londrina, um \nespresso lungo aromático, preparado com grãos regionais especiais que \nrealçam seu sabor e corpo. Com ele vem Sticky Toffee de Tâmaras, um bolo\n molhadinho feito com tâmaras Jumbo, regado com uma rica calda de \ncaramelo toffee, e servido com gelato artesanal e amêndoas tostadas para\n uma experiência de sabor e textura inesquecíveis.Terça a Sexta: 11h às 19hSábado: 10h às 16h",
+    "address": "R. Pio XII, 566 - Centro Jardins, Londrina",
+    "instagram": "https://www.instagram.com/terrinegastronomia/"
+  },
+  {
+    "name": "The coffee",
+    "menu": "Combo The Coffee: Vanilla Latte + Pão de Queijo Recheado + Bolo de Banana",
+    "description": "O The Coffee apresenta na Coffee Week o Vanilla Latte, uma bebida \ncremosa que combina a suavidade da baunilha e o calor do leite, \nharmonizados com a intensidade do espresso acompanhado de um delicioso \npão de queijo recheado, com sua textura macia e sabor irresistível. Para\n finalizar, um pedaço do nosso caseiro bolo de banana, perfeito para \nadoçar seu momento.Segunda a Sexta: 07h às 19hSábado, Domingo e feriado: 09h às 19h",
+    "address": "R. Belo Horizonte, 900 - Centro, Londrina",
+    "instagram": "https://www.instagram.com/thecoffee.jp/"
+  },
+  {
+    "name": "Vica’s Pâtisserie",
+    "menu": "Café Coado +  Trio de Doces Finos: Nutella + Caramelo + Flor de Sal + Mil Folhas de Baunilha e Frutas Vermelhas",
+    "description": "A Vica’s Pâtisserie vem para a Coffee Week com um delicioso café \ncoado servido com um irresistível trio de doces finos compostos por: uma\n caixinha com crocante de Nutella, um mini tartelette de caramelo e flor\n de sal e mil-folhas da baunilha e frutas vermelhas com suas camadas \ncrocantes e recheio cremoso.Terça a Domingo: 13h às 18h",
+    "address": "R. Jonatas Serrano, 1091 - Quebec, Londrina",
+    "instagram": "https://www.instagram.com/vicaspatisserie/"
+  },
+  {
+    "name": "Yenes Chocolatier (Catuaí)",
+    "menu": "Espresso + Trufa de Café + Croissant com Requeijão",
+    "description": "A Yenes Chocolatier (Catuaí) trouxe para o festival um espresso \nencorpado e aromático que será servido com um croissant fresco e \namanteigado, com uma porção cremosa requeijão. Para adoçar, uma trufa de\n café, que intensifica o sabor do grão em uma experiência doce e \ncremosa.Segunda à Sábado: 10h às 22hDomingo: 12h às 20h",
+    "address": "Shopping Catuaí Londrina - Rod. Celso Garcia Cid, 5600 - Palhano 2, Londrina",
+    "instagram": "https://www.instagram.com/yenescatuai/"
+  }
+]

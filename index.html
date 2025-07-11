@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://brasilcoffeeweek.com.br/wp-content/uploads/2023/02/logo_cw-150x150.png"
+        sizes="32x32">
+    <link rel="icon" href="https://brasilcoffeeweek.com.br/wp-content/uploads/2023/02/logo_cw.png" sizes="192x192">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+
+      <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+     <script type="text/javascript" src="https://raw.githubusercontent.com/Leaflet/Leaflet.Icon.Glyph/refs/heads/gh-pages/Leaflet.Icon.Glyph.js"></script>
+    <title>Londrina Coffee Week 2025</title>
+</head>
+
+<body class="bg-gray-50 p-6 h-screen flex flex-col">
+    <div class="mb-6 flex-shrink-0">
+        <h1 class="text-gray-900 font-bold text-3xl mb-2">Londrina Coffee Week 2025</h1>
+        <p class="hidden md:block text-gray-700 text-xl">É o festival gastronômico que democratiza e movimenta o universo do café, gerando acesso às cafeterias, confeitarias, panificadoras e gelaterias. Durante 20 dias, cada estabelecimento oferece um menu especial, com bebida e comida, de valor fixo e reduzido entre todos os participantes. É só chegar nos locais participantes e pedir o menu Coffee Week!</p>
+    </div>
+    <div class="flex-1 flex flex-col">
+        <div id="map" class="w-full h-96 md:h-full mb-6 bg-gray-200 rounded-lg shadow-md">
+            <!-- Mapa será renderizado aqui -->
+            <p class="text-center text-gray-500 pt-40">Mapa carregando...</p>
+
+        </div>
+    </div>
+
+</body>
+
+<script>
+    let coffeeShops = [];
+    let map = null;
+    let myLocation = {
+        latitude: null,
+        longitude: null
+    };
+
+    fetch("restaurantes_brasil_coffee_week_com_coords.json")
+    .then(response => response.json())
+    .then(data => {
+        console.log("🍵 Restaurantes:", data);
+        coffeeShops = data;
+    })
+    .catch(error => console.error("Erro ao carregar JSON:", error));    
+
+    if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(
+            function(position) {
+                myLocation.latitude = position.coords.latitude;
+                myLocation.longitude = position.coords.longitude;
+                console.log("📍 Latitude:", myLocation.latitude);
+                console.log("📍 Longitude:", myLocation.longitude);
+
+                map = L.map('map').setView([myLocation.latitude, myLocation.longitude], 13); // Londrina, PR
+
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 19,
+                    attribution: '© OpenStreetMap contributors'
+                }).addTo(map);
+
+                const me = L.marker([myLocation.latitude, myLocation.longitude]).addTo(map);
+                me.bindPopup(`<b>Você está aqui</b><br>${myLocation.latitude}, ${myLocation.longitude}`).openPopup();
+
+
+                coffeeShops.forEach(shop => {
+                    const marker = L.marker([shop.latitude, shop.longitude]).addTo(map);
+
+                    
+
+                    const card = `<div class="col-span-1 divide-y divide-gray-200 rounded-lg">
+    <div class="flex w-full items-center justify-between space-x-6 p-6">
+      <div class="flex-1 truncate">
+        <div class="flex items-center space-x-3">
+          <h3 class="truncate text-sm font-medium text-gray-900">${shop.name}</h3>          
+        </div>
+        <p class="mt-1 truncate text-sm text-gray-500">Internal Applications Engineer</p>
+      </div>
+      <img class="size-10 shrink-0 rounded-full bg-gray-300" src="https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60" alt="" />
+    </div>
+    
+    </div>
+  </div>`;
+
+                    marker.bindPopup(card).openPopup();
+                });
+
+            },
+            function(error) {
+                console.error("Erro ao obter localização:", error.message);
+            }
+        );
+    } else {
+        console.log("Geolocalização não é suportada pelo navegador.");
+    }
+</script>
+</html>
+
+
+
