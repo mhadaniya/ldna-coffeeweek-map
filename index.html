@@ -16,7 +16,9 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
-     <script type="text/javascript" src="https://raw.githubusercontent.com/Leaflet/Leaflet.Icon.Glyph/refs/heads/gh-pages/Leaflet.Icon.Glyph.js"></script>
+     <script type="text/javascript" src="Leaflet.Icon.Glyph.js"></script>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+     <script src="//unpkg.com/alpinejs" defer></script>
     <title>Londrina Coffee Week 2025</title>
 </head>
 
@@ -26,12 +28,30 @@
         <p class="hidden md:block text-gray-700 text-xl">É o festival gastronômico que democratiza e movimenta o universo do café, gerando acesso às cafeterias, confeitarias, panificadoras e gelaterias. Durante 20 dias, cada estabelecimento oferece um menu especial, com bebida e comida, de valor fixo e reduzido entre todos os participantes. É só chegar nos locais participantes e pedir o menu Coffee Week!</p>
     </div>
     <div class="flex-1 flex flex-col">
-        <div id="map" class="w-full h-96 md:h-full mb-6 bg-gray-200 rounded-lg shadow-md">
+        <div id="map" class="w-full h-full mb-6 bg-gray-200 rounded-lg shadow-md">
             <!-- Mapa será renderizado aqui -->
             <p class="text-center text-gray-500 pt-40">Mapa carregando...</p>
 
         </div>
     </div>
+
+    <div id="drawer" class="hidden fixed inset-y-0 right-0 w-full max-w-md bg-white shadow-xl z-450 flex flex-col">
+    <div class="flex items-start justify-between px-4 py-6">
+        <h2 class="text-xl font-semibold text-gray-900" id="drawer-name">Nome</h2>
+        <button onclick="closeDrawer()" type="button" class="relative rounded-md bg-white text-gray-400 hover:text-gray-500 focus-visible:ring-2 focus-visible:ring-indigo-500">
+            <span class="sr-only">Close panel</span>
+            <svg class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+    <div class="px-4 pb-5 pt-5 flex flex-col items-center">
+        <img id="drawer-image" class="rounded-sm bg-gray-300 mb-4" src="" alt="" />
+        <h3 class="font-bold text-gray-900 mb-2" id="drawer-menu">Menu</h3>
+        <p class="text-sm text-gray-500 mb-2" id="drawer-description">Descrição</p>
+        <p class="text-sm text-gray-500 mb-2" id="drawer-address">Endereço</p>
+    </div>
+</div>
 
 </body>
 
@@ -42,8 +62,9 @@
         latitude: null,
         longitude: null
     };
+    let selectedShop = null;
 
-    fetch("restaurantes_brasil_coffee_week_com_coords.json")
+    fetch("restaurantes_brasil_coffee_week_merged.json")
     .then(response => response.json())
     .then(data => {
         console.log("🍵 Restaurantes:", data);
@@ -66,30 +87,19 @@
                     attribution: '© OpenStreetMap contributors'
                 }).addTo(map);
 
-                const me = L.marker([myLocation.latitude, myLocation.longitude]).addTo(map);
+                const me = L.marker([myLocation.latitude, myLocation.longitude],
+                    {icon: L.icon.glyph({ prefix: 'fa', glyph: 'person' }) }
+                ).addTo(map);
                 me.bindPopup(`<b>Você está aqui</b><br>${myLocation.latitude}, ${myLocation.longitude}`).openPopup();
 
 
                 coffeeShops.forEach(shop => {
-                    const marker = L.marker([shop.latitude, shop.longitude]).addTo(map);
-
-                    
-
-                    const card = `<div class="col-span-1 divide-y divide-gray-200 rounded-lg">
-    <div class="flex w-full items-center justify-between space-x-6 p-6">
-      <div class="flex-1 truncate">
-        <div class="flex items-center space-x-3">
-          <h3 class="truncate text-sm font-medium text-gray-900">${shop.name}</h3>          
-        </div>
-        <p class="mt-1 truncate text-sm text-gray-500">Internal Applications Engineer</p>
-      </div>
-      <img class="size-10 shrink-0 rounded-full bg-gray-300" src="https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60" alt="" />
-    </div>
-    
-    </div>
-  </div>`;
-
-                    marker.bindPopup(card).openPopup();
+                    const marker = L.marker([shop.latitude, shop.longitude], 
+                        { icon: L.icon.glyph({ prefix: 'fa', glyph: 'mug-hot' })}
+                    ).addTo(map);
+                    marker.on('click', function() {
+                        showDrawer(shop);
+                    });
                 });
 
             },
@@ -99,6 +109,20 @@
         );
     } else {
         console.log("Geolocalização não é suportada pelo navegador.");
+    }
+
+    function showDrawer(shop) {
+        selectedShop = shop;
+        document.getElementById('drawer-name').textContent = shop.name;
+        document.getElementById('drawer-menu').textContent = shop.menu;
+        document.getElementById('drawer-image').src = shop.image;
+        document.getElementById('drawer-address').textContent = shop.address;
+        document.getElementById('drawer-description').textContent = shop.description;
+        document.getElementById('drawer').classList.remove('hidden');
+    }
+
+    function closeDrawer() {
+        document.getElementById('drawer').classList.add('hidden');
     }
 </script>
 </html>
