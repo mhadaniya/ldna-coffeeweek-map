@@ -7,3 +7,5 @@ Seleciona os locais participantes do evento e exibe no mapa, permitindo que os u
 Toda e qualquer contribuição é bem-vinda!
 
 Todos os direitos e marcas reservados à Brasil Coffee Week e os locais participantes. Sem propósito comercial, apenas para fins educacionais e para facilitar a minha vida. Se facilitar a sua também, fico feliz!
+
+Acesse 👉 https://ldna-coffeeweek-map.vercel.app/ para acessar o site!
