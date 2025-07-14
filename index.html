@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <link rel="icon" href="https://brasilcoffeeweek.com.br/wp-content/uploads/2023/02/logo_cw-150x150.png"
         sizes="32x32">
     <link rel="icon" href="https://brasilcoffeeweek.com.br/wp-content/uploads/2023/02/logo_cw.png" sizes="192x192">
@@ -24,13 +25,17 @@
 
 <body class="bg-gray-50 p-6 h-screen flex flex-col">
     <div class="mb-6 flex-shrink-0">
-        <h1 class="text-gray-900 font-bold text-3xl mb-2">Londrina Coffee Week 2025</h1>
+        <div id="timer" class="timer"></div>
+        <div class="cabecalho">
+            <h1 class="text-gray-900 font-bold text-3xl mb-2">Londrina Coffee Week 2025</h1>
+            <a href="https://brasilcoffeeweek.com.br/" target="_blank" rel="noopener noreferrer"></a>
+        </div>
         <p class="hidden md:block text-gray-700 text-xl">É o festival gastronômico que democratiza e movimenta o universo do café, gerando acesso às cafeterias, confeitarias, panificadoras e gelaterias. Durante 20 dias, cada estabelecimento oferece um menu especial, com bebida e comida, de valor fixo e reduzido entre todos os participantes. É só chegar nos locais participantes e pedir o menu Coffee Week!</p>
     </div>
     <div class="flex-1 flex flex-col">
         <div id="map" class="w-full h-full mb-6 bg-gray-200 rounded-lg shadow-md">
             <!-- Mapa será renderizado aqui -->
-            <p class="text-center text-gray-500 pt-40">Mapa carregando...</p>
+            <p id="map_loading" class="text-center text-gray-500 pt-40">Mapa carregando...</p>
 
         </div>
     </div>
@@ -87,10 +92,17 @@
                     attribution: '© OpenStreetMap contributors'
                 }).addTo(map);
 
-                const me = L.marker([myLocation.latitude, myLocation.longitude],
-                    {icon: L.icon.glyph({ prefix: 'fa', glyph: 'person' }) }
-                ).addTo(map);
-                me.bindPopup(`<b>Você está aqui</b><br>${myLocation.latitude}, ${myLocation.longitude}`).openPopup();
+                const me = L.marker([myLocation.latitude, myLocation.longitude], {
+                    icon: L.icon.glyph({
+                        prefix: 'fa',
+                        glyph: 'location-dot',
+                        glyphColor: 'white',
+                        glyphSize: '16px',
+                        className: 'me-marker',
+                    })
+                }).addTo(map);
+
+                me.bindPopup(`<b>Você está aqui 🙋</b><br>${myLocation.latitude}, ${myLocation.longitude}`).openPopup();
 
 
                 coffeeShops.forEach(shop => {
@@ -124,6 +136,35 @@
     function closeDrawer() {
         document.getElementById('drawer').classList.add('hidden');
     }
+
+    function startCountdown(targetDateString) {
+    const targetDate = new Date(targetDateString);
+
+    function updateTimer() {
+        const now = new Date();
+        const difference = targetDate - now;
+
+        if (difference <= 0) {
+            document.getElementById("timer").textContent = "Evento iniciado!";
+            clearInterval(timerInterval);
+            return;
+        }
+
+        const days = Math.floor(difference / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((difference / (1000 * 60 * 60)) % 24);
+        const minutes = Math.floor((difference / (1000 * 60)) % 60);
+        const seconds = Math.floor((difference / 1000) % 60);
+
+        document.getElementById("timer").textContent = 
+            `${days}d ${hours}h ${minutes}m ${seconds}s`;
+    }
+
+        updateTimer(); 
+        const timerInterval = setInterval(updateTimer, 1000);
+    }
+
+    startCountdown("2025-07-21T00:00:00");
+
 </script>
 </html>
 
