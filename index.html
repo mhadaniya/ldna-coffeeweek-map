@@ -24,8 +24,8 @@
 
 <body class="bg-gray-50 p-6 h-screen flex flex-col">
     <div class="mb-6 flex-shrink-0">
-        <h1 class="text-gray-900 font-bold text-3xl mb-2">Londrina Coffee Week 2025</h1>
-        <p class="hidden md:block text-gray-700 text-xl">É o festival gastronômico que democratiza e movimenta o universo do café, gerando acesso às cafeterias, confeitarias, panificadoras e gelaterias. Durante 20 dias, cada estabelecimento oferece um menu especial, com bebida e comida, de valor fixo e reduzido entre todos os participantes. É só chegar nos locais participantes e pedir o menu Coffee Week!</p>
+        <h1 class="text-gray-900 font-bold text-3xl mb-2">Londrina Coffee Week 2026</h1>
+        <p class="hidden md:block text-gray-700 text-xl">A Londrina Coffee Festival é o festival gastronômico que democratiza e movimenta o universo do café em cafeterias, confeitarias e panificadoras com menus por apenas <span class="font-bold text-2xl">R$32</span>! <span class="font-bold">É só chegar nos locais participantes e pedir o menu do festival!</span></p>
     </div>
     <div class="flex-1 flex flex-col">
         <div id="map" class="w-full h-full mb-6 bg-gray-200 rounded-lg shadow-md">
@@ -64,13 +64,13 @@
     };
     let selectedShop = null;
 
-    fetch("restaurantes_brasil_coffee_week_merged.json")
+    fetch("restaurantes_brasil_coffee_week_com_coords.json")
     .then(response => response.json())
     .then(data => {
         console.log("🍵 Restaurantes:", data);
         coffeeShops = data;
     })
-    .catch(error => console.error("Erro ao carregar JSON:", error));    
+    .catch(error => console.error("Erro ao carregar JSON:", error));
 
     if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition(
@@ -94,7 +94,7 @@
 
 
                 coffeeShops.forEach(shop => {
-                    const marker = L.marker([shop.latitude, shop.longitude], 
+                    const marker = L.marker([shop.latitude, shop.longitude],
                         { icon: L.icon.glyph({ prefix: 'fa', glyph: 'mug-hot' })}
                     ).addTo(map);
                     marker.on('click', function() {

@@ -6,8 +6,9 @@
     "address": "R. Rubéns Carlos de Jesus, 300 - ALAMEDA SANTANA",
     "instagram": "https://www.instagram.com/barucriativa/",
     "hours": "Terça a Sexta: 10h às 19h\nSábado: 09h às 18h30",
-    "lng": -51.1924872,
-    "lat": -23.345021
+    "longitude": -51.1924872,
+    "latitude": -23.345021,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/DSC5220-scaled.jpg"
   },
   {
     "name": "Baudelaire Cookies",
@@ -16,8 +17,9 @@
     "address": "Av. Me. Leônia Milito, 1330 - sala 13 - Bela Suiça",
     "instagram": "https://www.instagram.com/baudelairecookies/",
     "hours": "Segunda a Sábado: 10h às 18h",
-    "lng": -51.1747157,
-    "lat": -23.3343344
+    "longitude": -51.1747157,
+    "latitude": -23.3343344,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Baudelaire.jpg"
   },
   {
     "name": "Bolos do Frei Garden",
@@ -26,8 +28,9 @@
     "address": "Av. Inglaterra, 590 - Centro",
     "instagram": "https://www.instagram.com/bolosdofreigarden/",
     "hours": "Segunda a Sexta: 09h às 18h\nSábado: 09h às 13h",
-    "lng": -51.1476561,
-    "lat": -23.3444382
+    "longitude": -51.1476561,
+    "latitude": -23.3444382,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Bolos-do-Frei.jpg"
   },
   {
     "name": "Brot Panificação Alemã",
@@ -36,8 +39,9 @@
     "address": "Rod. Mabio Gonçalves Palhano, 200 - Palhano 2",
     "instagram": "https://www.instagram.com/brot.londrina/",
     "hours": "Segunda a Domingo: 07h30 às 20h",
-    "lng": -51.1858164,
-    "lat": -23.3381954
+    "longitude": -51.1858164,
+    "latitude": -23.3381954,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/brot-scaled.jpg"
   },
   {
     "name": "Café com Tortas",
@@ -46,8 +50,9 @@
     "address": "R. Alagoas, 631 - Centro",
     "instagram": "https://www.instagram.com/cafeteriacafecomtortas/",
     "hours": "Segunda a sexta: 09h às 18h\nSábado: 09 às 17h",
-    "lng": -51.1583178,
-    "lat": -23.3178211
+    "longitude": -51.1583178,
+    "latitude": -23.3178211,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Cafe-com-Tortas-scaled.jpg"
   },
   {
     "name": "Café Crystal",
@@ -56,8 +61,9 @@
     "address": "R. Quintino Bocaiúva, 15 - Centro",
     "instagram": "https://www.instagram.com/cafecrystal_lond/",
     "hours": "Segunda a Sexta: 08h30 às 19h\nSábados: 09h às 13h",
-    "lng": -51.1641146,
-    "lat": -23.3107007
+    "longitude": -51.1641146,
+    "latitude": -23.3107007,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Cafe-Crystal-scaled.jpg"
   },
   {
     "name": "Cafeteria Odebrecht Gourmet e Premium",
@@ -66,8 +72,9 @@
     "address": "Rua Maestro Egidio Camargo do Amaral, 130 - CentroAv. Harry Prochet, 305 - BOX 21 - São Jorge",
     "instagram": "https://www.instagram.com/cafeteriaodebrechtgourmet/",
     "hours": null,
-    "lng": -51.1574436,
-    "lat": -23.3411916
+    "longitude": -51.1574436,
+    "latitude": -23.3411916,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Odebrecht-Gourmet-scaled.jpg"
   },
   {
     "name": "Cafeteria Odebrecht Gourmet e Premium",
@@ -76,8 +83,9 @@
     "address": "Rua Maestro Egidio Camargo do Amaral, 130 - CentroAv. Harry Prochet, 305 - BOX 21 - São Jorge",
     "instagram": "https://www.instagram.com/cafeteriaodebrechtgourmet/",
     "hours": "O Menu é composto com nosso tradicional Waffle em uma releitura bem abrasileirada, trazendo a carne seca como ator principal e o requeijão como auxiliar para compor esse elenco de sabores! A bebida por sua vez complementa a refeição trazendo a classe e a doçura do cappuccino aliado a tradição de 70 anos da marca Odebrecht!Odebrecht PremiumSegunda a Sexta: 08h às 19hSábado: 08h às 13hOdebrecht GourmetSegunda a Sábado: 08h às 19hDomingo: 08h às 13h",
-    "lng": -51.1574436,
-    "lat": -23.3411916
+    "longitude": -51.1574436,
+    "latitude": -23.3411916,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Odebrecht-Gourmet-scaled.jpg"
   },
   {
     "name": "Cake by Mili",
@@ -86,8 +94,9 @@
     "address": "R. Espírito Santo, 1450 - Centro",
     "instagram": "https://www.instagram.com/cakebymili/",
     "hours": "Terça a Sexta: 12h às 18h\nSábado: 12h às 18h",
-    "lng": -51.1662849,
-    "lat": -23.3164317
+    "longitude": -51.1662849,
+    "latitude": -23.3164317,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Cake-By-Mili-scaled.jpg"
   },
   {
     "name": "Caramelada",
@@ -96,8 +105,9 @@
     "address": "R. Cristiano Machado, 163 - Campo Belo",
     "instagram": "https://www.instagram.com/_caramelada/",
     "hours": "Segunda a Sexta: 08h às 18h30\nSábado 8h às 16h",
-    "lng": -51.1804179,
-    "lat": -23.3033793
+    "longitude": -51.1804179,
+    "latitude": -23.3033793,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Caramelada-scaled.jpg"
   },
   {
     "name": "Casa Celeste",
@@ -106,8 +116,9 @@
     "address": "R. Ibiporã, 636 - Aurora",
     "instagram": "https://www.instagram.com/a.casaceleste/",
     "hours": "Quarta a sexta-feira: 09h às 19h",
-    "lng": -51.1745513,
-    "lat": -23.306495
+    "longitude": -51.1745513,
+    "latitude": -23.306495,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Casa-Celeste-scaled.jpg"
   },
   {
     "name": "Coelho Café",
@@ -116,8 +127,9 @@
     "address": "R. João XXIII, 650 - Judith",
     "instagram": "https://www.instagram.com/coelhocafé/",
     "hours": "Terça a Sexta: 10h às 19hSábado: 09h às 19hDomingo: 09h às 16h",
-    "lng": -51.1770368,
-    "lat": -23.3089818
+    "longitude": -51.1770368,
+    "latitude": -23.3089818,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/coelho-scaled.jpg"
   },
   {
     "name": "Daskuchen",
@@ -126,8 +138,9 @@
     "address": "R. Piauí, 1280 - Centro",
     "instagram": "https://www.instagram.com/daskuchen_cucas/",
     "hours": "Terça a quinta: 14h30 às 18h30\nSexta: 09h às 18h30\nSábado: 09h às 18h⁠",
-    "lng": -51.1688865,
-    "lat": -23.3131676
+    "longitude": -51.1688865,
+    "latitude": -23.3131676,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Das-Kuchen-scaled.jpg"
   },
   {
     "name": "Delicato Brigaderia",
@@ -136,8 +149,9 @@
     "address": "R. Caracas, 181 - Jardim",
     "instagram": "https://www.instagram.com/delicatobrigadeiria/",
     "hours": "Segunda a Sábado: 11h às 18h",
-    "lng": -51.1715707,
-    "lat": -23.3323421
+    "longitude": -51.1715707,
+    "latitude": -23.3323421,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Delicato-Brigaderia-scaled.jpg"
   },
   {
     "name": "Doces secretos de Dusvailer",
@@ -146,8 +160,9 @@
     "address": "Fundos, R. Piauí, 1127 - Centro",
     "instagram": "https://www.instagram.com/dusvailer/",
     "hours": "Quarta a Sexta: 12h à 18hSábado e Domingo: 09h às 18h",
-    "lng": -51.167477,
-    "lat": -23.313447
+    "longitude": -51.167477,
+    "latitude": -23.313447,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Dusvailer_.png"
   },
   {
     "name": "Dona Francisca Doces",
@@ -156,8 +171,9 @@
     "address": "R. Piauí, 861 - Centro",
     "instagram": "https://www.instagram.com/donafranciscadoces/",
     "hours": "Segunda a Quinta:\nSexta e Sábado: 08h30 às 18h00",
-    "lng": -51.1648094,
-    "lat": -23.3134801
+    "longitude": -51.1648094,
+    "latitude": -23.3134801,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Dona-Francisca-scaled.jpg"
   },
   {
     "name": "Dona Guca",
@@ -166,8 +182,9 @@
     "address": "Av. Juscelino Kubitscheck, 1703 - Centro",
     "instagram": "https://www.instagram.com/cafeteriadonaguca/",
     "hours": "Segunda a Sábado: 09h às 19h",
-    "lng": -51.1703907,
-    "lat": -23.316918
+    "longitude": -51.1703907,
+    "latitude": -23.316918,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Dona-Guca-scaled.jpg"
   },
   {
     "name": "Dona Zu Cafeteria",
@@ -176,8 +193,9 @@
     "address": "Royal Plaza Shopping: R. Mato Grosso, 310 - Loja 133 - Térreo",
     "instagram": "https://www.instagram.com/donazucafe/",
     "hours": "Segunda a sábado: 09h30 às 20h30\nDomingo e feriado: 12h30 às 17h30",
-    "lng": -51.1565451,
-    "lat": -23.3115899
+    "longitude": -51.1565451,
+    "latitude": -23.3115899,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Dona-Zu-scaled.jpg"
   },
   {
     "name": "Eclair Garden",
@@ -186,8 +204,9 @@
     "address": "R. Adhemar Pereira de Barros, 1600, Loja 01 - Bela Suiça",
     "instagram": "https://www.instagram.com/eclairgarden/",
     "hours": "Terça a Sábado: 10h30 às 18hDomingo: 09h30 às 17h",
-    "lng": -51.1637082,
-    "lat": -23.3450046
+    "longitude": -51.1637082,
+    "latitude": -23.3450046,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/eclair-scaled.jpg"
   },
   {
     "name": "Faborelo",
@@ -196,8 +215,9 @@
     "address": "R. Goiás, 1881 - Loja 1 - Centro",
     "instagram": "https://www.instagram.com/faborelo_/",
     "hours": "Segunda a sexta: 09h30 às 18h30\nSábado: 09h às 18h",
-    "lng": -51.1707743,
-    "lat": -23.3314008
+    "longitude": -51.1707743,
+    "latitude": -23.3314008,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Faborelo-scaled.jpg"
   },
   {
     "name": "Fernanda de Pauli Doceria",
@@ -206,8 +226,9 @@
     "address": "R. Montevidéu, 251 - Guanabara",
     "instagram": "https://www.instagram.com/ferpauli/",
     "hours": "Segunda a Sexta:",
-    "lng": -51.1686491,
-    "lat": -23.3320107
+    "longitude": -51.1686491,
+    "latitude": -23.3320107,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Fernanda-Di-Pauli-scaled.jpg"
   },
   {
     "name": "Fura Bolo Doceria",
@@ -216,8 +237,9 @@
     "address": "R. Montevidéu, 490 - Guanabara",
     "instagram": "https://www.instagram.com/Furabolodoceria/",
     "hours": "Segunda: 12h às 18h30\nTerça a Sábado: 10h às 18h30\nDomingo: 10h às 18h",
-    "lng": -51.1707743,
-    "lat": -23.3314008
+    "longitude": -51.1707743,
+    "latitude": -23.3314008,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Fura-Bolo-scaled.jpg"
   },
   {
     "name": "Gato Preto Cat Café",
@@ -226,8 +248,9 @@
     "address": "R. Espírito Santo, 1123 - Centro",
     "instagram": "https://www.instagram.com/gatopretocatcafe/",
     "hours": "Terça a Sábado: 10h às 19h\nDomingo: 14h às 18h",
-    "lng": -51.1630742,
-    "lat": -23.316686
+    "longitude": -51.1630742,
+    "latitude": -23.316686,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Gato-Preto-scaled.jpg"
   },
   {
     "name": "Hello Donuts Londrina",
@@ -236,8 +259,9 @@
     "address": "R. Goiás, 1820 - Lojas 01 e 02 - Centro",
     "instagram": "https://www.instagram.com/hellodonuts_londrina/",
     "hours": "Terça a sábado: 12h30 às 19h\nDomingo: 14h às 19h",
-    "lng": -51.1691032,
-    "lat": -23.3153849
+    "longitude": -51.1691032,
+    "latitude": -23.3153849,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Hello-Donuts-scaled.jpg"
   },
   {
     "name": "HERA Café",
@@ -246,8 +270,9 @@
     "address": "Av. Juscelino Kubitscheck, 2099 - Ipiranga",
     "instagram": "https://www.instagram.com/heracafeoficial/",
     "hours": "Terça a sábado: 09h às 18h",
-    "lng": -51.168804,
-    "lat": -23.3197012
+    "longitude": -51.168804,
+    "latitude": -23.3197012,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/hera-scaled.jpg"
   },
   {
     "name": "Isabela Yenes Chocolatier",
@@ -256,8 +281,9 @@
     "address": "R. La Paz, 61 - Guanabara",
     "instagram": "https://www.instagram.com/yeneschocolatier/",
     "hours": "Segunda a Sexta-feira: 09h às 18h\nSábado: 09h às 13h",
-    "lng": -51.168849,
-    "lat": -23.3313113
+    "longitude": -51.168849,
+    "latitude": -23.3313113,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Isabela-Yenes-scaled.jpg"
   },
   {
     "name": "Jardim Secreto Cafeteria",
@@ -266,8 +292,9 @@
     "address": "Av. Me. Leônia Milito, 1.900 - Palhano 1",
     "instagram": "https://www.instagram.com/jardimsecretocafeteria/",
     "hours": "Segunda a sábado: 08h às 18h30h",
-    "lng": -51.1797558,
-    "lat": -23.3355498
+    "longitude": -51.1797558,
+    "latitude": -23.3355498,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/jardim-secreto-scaled.jpg"
   },
   {
     "name": "Kings Café Londrina",
@@ -276,8 +303,9 @@
     "address": "R. Goiás, 1774 - Centro",
     "instagram": "https://www.instagram.com/kingscafeoficial/",
     "hours": "Todos os dias: 08h às 20h",
-    "lng": -51.1687615,
-    "lat": -23.3153143
+    "longitude": -51.1687615,
+    "latitude": -23.3153143,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Kings-Cafe-e-Bar-scaled.jpg"
   },
   {
     "name": "Laleve Cozinha Funcional",
@@ -286,8 +314,9 @@
     "address": "R. Idalino César, 23 - Arco Íris",
     "instagram": "https://www.instagram.com/lalevefuncional/",
     "hours": "Segunda a Sexta: 8h30 às 18h30\nSábado: 8h30 às 16h00",
-    "lng": -51.1719579,
-    "lat": -23.3318083
+    "longitude": -51.1719579,
+    "latitude": -23.3318083,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/La-Leve-scaled.jpg"
   },
   {
     "name": "Le Vin Couvert Pâtisserie",
@@ -296,8 +325,9 @@
     "address": "R. Dr. Dimas de Barros, 80 - loja 23 - Palhano 2",
     "instagram": "https://www.instagram.com/levincouvert/",
     "hours": "Terça a Domingo: 09h às 18h",
-    "lng": -51.1766721,
-    "lat": -23.3356822
+    "longitude": -51.1766721,
+    "latitude": -23.3356822,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Le-Vin-Couvert-scaled.jpg"
   },
   {
     "name": "Leone Gelateria",
@@ -306,8 +336,9 @@
     "address": "R. Montevidéu, 700 - Palhano 2",
     "instagram": "https://www.instagram.com/leonegelateria/",
     "hours": "Segunda a Domingo: 12h às 22h",
-    "lng": -51.1736969,
-    "lat": -23.3303715
+    "longitude": -51.1736969,
+    "latitude": -23.3303715,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/leone-scaled.jpg"
   },
   {
     "name": "Manoah Café & Bistrô",
@@ -316,8 +347,9 @@
     "address": "Rua Capitão Almir Moreira, 1630 (Anexo à Makor Center) - Canaã",
     "instagram": "https://www.instagram.com/manoahcafebistro/",
     "hours": "Segunda a Sexta: 07h30 às 19h30\nSábado: 07h às 12h",
-    "lng": -51.1649606,
-    "lat": -23.3251001
+    "longitude": -51.1649606,
+    "latitude": -23.3251001,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Manoah-Cambe-scaled.jpg"
   },
   {
     "name": "Maria-te-viu Café",
@@ -326,8 +358,9 @@
     "address": "R. Drongo, 1325 - Centro, Arapongas",
     "instagram": "https://www.instagram.com/mariateviucafé/",
     "hours": "Segunda a Sexta: 11h às 19hSábado: 09h às 19h",
-    "lng": -51.4359299,
-    "lat": -23.4118016
+    "longitude": -51.4359299,
+    "latitude": -23.4118016,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Maria-Te-Viu-scaled.jpg"
   },
   {
     "name": "Merenda Rangos e Sorvetes",
@@ -336,8 +369,9 @@
     "address": "R. Benjamin Constant, 1860 - Centro",
     "instagram": "https://www.instagram.com/merenda_ldna/",
     "hours": "Diariamente: 11h às 22h",
-    "lng": -51.1686489,
-    "lat": -23.3085334
+    "longitude": -51.1686489,
+    "latitude": -23.3085334,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Merenda-scaled.jpg"
   },
   {
     "name": "Mojo Cafeteria",
@@ -346,8 +380,9 @@
     "address": "Av. Ayrton Senna da Silva, 200 - Palhano 1",
     "instagram": "https://www.instagram.com/cafemojolondrina/",
     "hours": "Segunda a Sexta: 07h45 às 19h\nSábado 08h às 12h",
-    "lng": -51.1775946,
-    "lat": -23.327447
+    "longitude": -51.1775946,
+    "latitude": -23.327447,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Mojo-scaled.jpg"
   },
   {
     "name": "MoriMori Café",
@@ -356,8 +391,9 @@
     "address": "R. Almeida Garret, 235 - Jardim São Jorge",
     "instagram": "https://www.instagram.com/cafemorimori/",
     "hours": "Segunda a Sábado: 09h às 18h",
-    "lng": -51.1535252,
-    "lat": -23.3394966
+    "longitude": -51.1535252,
+    "latitude": -23.3394966,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Mori-Mori-scaled.jpg"
   },
   {
     "name": "O Armazém Café",
@@ -366,8 +402,9 @@
     "address": "R. Belo Horizonte, 701 - Centro",
     "instagram": "https://www.instagram.com/oarmazemcafe/",
     "hours": "Segunda a Sábado: 10h às 19h",
-    "lng": -51.1665595,
-    "lat": -23.3104775
+    "longitude": -51.1665595,
+    "latitude": -23.3104775,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/O-Armazem-Cafe-scaled.jpg"
   },
   {
     "name": "Oh My Coffee!",
@@ -376,8 +413,9 @@
     "address": "R. Pio XII, 93 - Centro",
     "instagram": "https://www.instagram.com/ohmycoffee_cafeteria/",
     "hours": "Segunda a Sexta: 08h às 18h\nSábado: 08h às 18h\nDomingo: 08 às 12h",
-    "lng": -51.162374,
-    "lat": -23.3121716
+    "longitude": -51.162374,
+    "latitude": -23.3121716,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Oh-My-Coffee-scaled.jpg"
   },
   {
     "name": "Óveipo Café - Cafeteria e Eventos",
@@ -386,8 +424,9 @@
     "address": "R. Dr. Elias Cesar, 55 - Jardim Caiçaras",
     "instagram": "https://www.instagram.com/oveipocafe/",
     "hours": "Segunda a Sexta: 09h às 19h\nSábado: 8h30 às 12h30",
-    "lng": -51.1531079,
-    "lat": -23.3348945
+    "longitude": -51.1531079,
+    "latitude": -23.3348945,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Oveipo-scaled.jpg"
   },
   {
     "name": "Oyster Delicatessen",
@@ -396,8 +435,9 @@
     "address": "R. Joaquim Lacerda, 95 - Boa Vista",
     "instagram": "https://www.instagram.com/oysterdelicatessen/",
     "hours": "Nosso menu para o Coffee Festival 2026 é inspirado nos sabores da Itália. É composto por uma focaccia de fermentação lenta e natural, servida com fonduta de queijo parmesão e grana padano, finalizada com farofa de guanciale, trazendo profundidade, cremosidade e intensidade em cada mordida. Para completar a experiência, nossa releitura do Espresso Martini, preparada com licor de café artesanal Da Quinta produzido por nós e uma espuma infusionada com bolacha de cacau meio amargo criando uma harmonização sofisticada e cheia de personalidade.\nQuarta a Sábado: 10h às 19h30\nDomingo: 10h às 15h",
-    "lng": -51.1664449,
-    "lat": -23.3227772
+    "longitude": -51.1664449,
+    "latitude": -23.3227772,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Oyster-Deli-scaled.jpg"
   },
   {
     "name": "Pane di Giovanni",
@@ -406,8 +446,9 @@
     "address": "R. Fermino Barbosa, 185 - Sala 2, 3 - Jd. Aurora",
     "instagram": "https://www.instagram.com/panedigiovanni/",
     "hours": "Terça a Domingo: 7h30 às 21h30",
-    "lng": -51.1710611,
-    "lat": -23.3450837
+    "longitude": -51.1710611,
+    "latitude": -23.3450837,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Pani-di-Giovanni-scaled.jpg"
   },
   {
     "name": "Pane Puro",
@@ -416,8 +457,9 @@
     "address": "R. Foz do Iguaçu, 90 - Bancários",
     "instagram": "https://www.instagram.com/pane.puro/",
     "hours": "Terça a Sexta: 9h às 19hSábado: 8h às 18hDomingo: 8h30 às 12h",
-    "lng": -51.1794341,
-    "lat": -23.3044868
+    "longitude": -51.1794341,
+    "latitude": -23.3044868,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Pane-Puro-scaled.jpg"
   },
   {
     "name": "Panino 77",
@@ -426,8 +468,9 @@
     "address": "R. Caracas, 251 - Santa Rosa",
     "instagram": "https://www.instagram.com/panino.77/",
     "hours": "Terça a Domingo: 11h às 22h",
-    "lng": -51.1723429,
-    "lat": -23.3325886
+    "longitude": -51.1723429,
+    "latitude": -23.3325886,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Panino-77-scaled.jpg"
   },
   {
     "name": "RAV Café e Bistrô",
@@ -436,8 +479,9 @@
     "address": "R. Ruy Virmond Carnascialli, 210 - sala 4 - Leonor",
     "instagram": "https://www.instagram.com/RAV.CAFE.BISTRO/",
     "hours": "Segunda a Sexta: 09h às 18hSábado: 08h às 17h",
-    "lng": -51.1984689,
-    "lat": -23.2944653
+    "longitude": -51.1984689,
+    "latitude": -23.2944653,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/RAV-Cafe-scaled.jpg"
   },
   {
     "name": "Sagrado Boulangerie",
@@ -446,8 +490,9 @@
     "address": "Galeria Bello Mall - Av. Gil de Abreu e Souza, 805 - Loja 4 - Condomínio Royal Golf Residence",
     "instagram": "https://www.instagram.com/sagradolondrina/",
     "hours": "Segunda a Sexta: 06h30 às 19hSábado: 07h às 18hDomingo: 07h às 13h",
-    "lng": -51.2017337,
-    "lat": -23.3500595
+    "longitude": -51.2017337,
+    "latitude": -23.3500595,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/Sagrado-Boulangerie-scaled.jpg"
   },
   {
     "name": "SOU Pâtisserie",
@@ -456,8 +501,9 @@
     "address": "R. Jorge Velho, 425 - sala 4 - Vila Larsen 1",
     "instagram": "https://www.instagram.com/sou.patisserie/",
     "hours": "Terça a Sexta: 11h às 18h30\nSábado: 12h às 17h",
-    "lng": -51.1579475,
-    "lat": -23.321853
+    "longitude": -51.1579475,
+    "latitude": -23.321853,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/SOU-Patisserie-scaled.jpg"
   },
   {
     "name": "The Oak - Cafés Especiais",
@@ -466,7 +512,8 @@
     "address": "R. Goiás, 1328 - loja 2 - Centro",
     "instagram": "https://www.instagram.com/theoakcafelondrina/",
     "hours": "Terça a Sábado: 10h às 18hDomingo: 9h às 13h",
-    "lng": -51.1642955,
-    "lat": -23.3152494
+    "longitude": -51.1642955,
+    "latitude": -23.3152494,
+    "image": "https://brasilcoffeefestival.com/wp-content/uploads/2026/06/the-oak-scaled.jpg"
   }
 ]
